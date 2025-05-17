@@ -9,12 +9,14 @@ We may collect the following types of information:
 Personal Information: Name, email address, or other details (only if provided by the user).
 Device Information: Device type, operating system, and unique identifiers.
 Usage Data: How you interact with our app (e.g., features used, session length).
+
 2. How We Use Your Information
 We use the collected data to:
 
 Improve and personalize the app experience.
 Provide customer support.
 Ensure the security and functionality of the app.
+
 3. Third-Party Services
 Our app may use third-party services that have their own privacy policies, such as:
 
